@@ -7,7 +7,7 @@
       <img 
         alt="GitHub Stats" 
         height="160" 
-        src="https://github-readme-stats.vercel.app/api?username=Annabdv&show_icons=true&theme=transparent&include_all_commits=true&locale=en" 
+        src="https://github-readme-stats.vercel.app/api?username=Annabdv&show_icons=true&title_color=db7093&text_color=ffb6c1&icon_color=da70d6&bg_color=ffc0cb&include_all_commits=true&locale=en"" 
       />
     </td>
     <td>
