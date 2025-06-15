@@ -1,4 +1,4 @@
-# Olá, eu sou Anna Vasconcelos
+# Anna Beatriz Vasconcelos
 
 ## 📊 Stats
 <table>
