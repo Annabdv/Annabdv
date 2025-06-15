@@ -7,14 +7,14 @@
       <img 
         alt="GitHub Stats" 
         height="160" 
-        src="https://github-readme-stats.vercel.app/api?username=Annabdv&show_icons=true&theme=dracula&include_all_commits=true&locale=en" 
+        src="https://github-readme-stats.vercel.app/api?username=Annabdv&show_icons=true&theme=transparent&include_all_commits=true&locale=en" 
       />
     </td>
     <td>
       <img 
         alt="Most Used Languages" 
         height="160" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annabdv&theme=dracula&layout=compact&custom_title=Most%20Used%20Languages&langs_count=9" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annabdv&theme=transparent&layout=compact&custom_title=Most%20Used%20Languages&langs_count=9" 
       />
     </td>
   </tr>
