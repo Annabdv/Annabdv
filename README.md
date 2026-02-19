@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Anna
+# 👋 Olá, eu sou Anna Beatriz
 
 ## 📊 Stats
 <table>
